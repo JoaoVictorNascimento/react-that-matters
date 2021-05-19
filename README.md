@@ -23,6 +23,6 @@ tokens = ['9a8s4d98asd4a98sd4a', 'a3s5d16as5d1a6s5da']
 To run the script, simply enter the code folder and run the following command:
 
 ```python
-pip3 getDataGitHub.py
+python3 getDataGitHub.py
 ```
 
