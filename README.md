@@ -10,7 +10,7 @@ The repository is organized into two folders, code and data. The code folder con
 The python script uses pip3 and also some third party modules for its execution. This way it must be installed to run. Use the following command to install the dependencies used.
 
 ```python
-pip3 install DateTime PyGithub moment
+pip3 install DateTime PyGithub moment pandas
 ```
 
 The API used by the script uses user tokens to mine the repositories, so that it can be executed, create a file called tokens<span>.py in the code folder, containing a variable called 'tokens' that receives an array of user tokens. 
